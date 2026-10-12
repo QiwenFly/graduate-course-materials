@@ -1,2 +1,2 @@
-# graduate-course-materials
+# README
 研究生课程资料
